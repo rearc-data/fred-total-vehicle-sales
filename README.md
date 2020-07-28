@@ -5,7 +5,7 @@
 Total Vehicle Sales | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-e3mu2sh7ktzlo](https://aws.amazon.com/marketplace/pp/prodview-e3mu2sh7ktzlo).
 
 ## Main Overview
 
